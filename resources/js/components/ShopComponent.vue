@@ -71,7 +71,7 @@
 		},
 		deleteProduct(index){
 			this.products.splice(index,1);
-			
+			//splice es una funcion de javascript permite eliminar un objeto de un arreglo sabiendo el indice y cuantas casillas se van a eliminar
 		}
 	},
 	}
